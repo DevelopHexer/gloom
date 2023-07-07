@@ -4,6 +4,6 @@ int main(){
     for(int i=0;i<5;i++){
         x=x+1;
     }
-    
+    int y = x-1;
     return 0;
 }
